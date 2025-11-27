@@ -1,5 +1,6 @@
-﻿// Booking class - Hotel reservation entity
-// Author: Student
+﻿// Booking.cs - Hotel Booking System
+// Version 1.0
+// Author: Bandurko
 // Date: 27.11.2025
 
 using System;

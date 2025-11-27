@@ -1,4 +1,5 @@
-﻿public class BookingService : IBookingService
+﻿// BookingService.cs - Business logic for bookings
+public class BookingService : IBookingService
 {
     private readonly IBookingRepository _bookingRepository;
     private readonly IRoomRepository _roomRepository;
